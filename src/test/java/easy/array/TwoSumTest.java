@@ -10,6 +10,9 @@ class TwoSumTest {
     @Test
     public void twoSumTest()
     {
-        Assertions.assertEquals(true, true);
+        TwoSum twoSum = new TwoSum();
+        int[] arr = new int[]{2,3,4,5,6,7,10};
+
+        Assertions.assertTrue(twoSum.twoSum(arr, 13));
     }
 }
