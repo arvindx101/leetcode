@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49f8e727-a9d2-491e-a4e5-8f09e7ff8c5f" name="Default Changelist" comment="" />
+    <list default="true" id="49f8e727-a9d2-491e-a4e5-8f09e7ff8c5f" name="Default Changelist" comment="Implemented twoSum in Java">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/math/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/easy/math/PalindromeNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/easy/array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/easy/array/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/easy/array/TwoSumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/easy/array/TwoSumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/leetcode-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/leetcode-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/easy.array.TwoSumTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/easy.array.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-easy.array.TwoSumTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -51,7 +91,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="200pAbP8fTQO6xzMsvienFjP0Bm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,23 +105,47 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="easy.math" />
       <recent name="easy.array" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.TwoSumTest.twoSumTest">
+  <component name="RunManager" selected="Gradle.leetcode [clean]">
+    <configuration name="PalindromeNumberTest.isPalindrome" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;easy.math.PalindromeNumberTest.isPalindrome&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="TwoSumTest.twoSumTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -115,8 +185,29 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="leetcode [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.leetcode [clean]" />
+        <item itemvalue="Gradle.PalindromeNumberTest.isPalindrome" />
         <item itemvalue="Gradle.TwoSumTest.twoSumTest" />
         <item itemvalue="Gradle.leetcode [assemble]" />
       </list>
@@ -132,41 +223,95 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635191216542</updated>
-      <workItem from="1635191220639" duration="683000" />
+      <workItem from="1635191220639" duration="4453000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented twoSum in Java">
+      <created>1635198667139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635198667139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implemented twoSum in Java">
+      <created>1635198721289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635198721289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Returning the indices of array elements.">
+      <created>1635203466880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635203466880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Returning the indices of the array">
+      <created>1635203491216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635203491216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented twoSum in Java" />
+    <MESSAGE value="Returning the indices of array elements." />
+    <MESSAGE value="Returning the indices of the array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Returning the indices of the array" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="179" key="#Project_Structure" timestamp="1635191391700">
       <screen x="0" y="25" width="1920" height="981" />
     </state>
     <state x="560" y="179" key="#Project_Structure/0.25.1920.981@0.25.1920.981" timestamp="1635191391700" />
-    <state width="1878" height="263" key="GridCell.Tab.0.bottom" timestamp="1635191918459">
+    <state x="552" y="117" key="CommitChangelistDialog2" timestamp="1635203490824">
       <screen x="0" y="25" width="1920" height="981" />
     </state>
-    <state width="1878" height="263" key="GridCell.Tab.0.bottom/0.25.1920.981@0.25.1920.981" timestamp="1635191918459" />
-    <state width="1878" height="263" key="GridCell.Tab.0.center" timestamp="1635191918459">
+    <state x="552" y="117" key="CommitChangelistDialog2/0.25.1920.981@0.25.1920.981" timestamp="1635203490824" />
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom" timestamp="1635204157391">
       <screen x="0" y="25" width="1920" height="981" />
     </state>
-    <state width="1878" height="263" key="GridCell.Tab.0.center/0.25.1920.981@0.25.1920.981" timestamp="1635191918459" />
-    <state width="1878" height="263" key="GridCell.Tab.0.left" timestamp="1635191918458">
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom/0.25.1920.981@0.25.1920.981" timestamp="1635204157391" />
+    <state width="1878" height="263" key="GridCell.Tab.0.center" timestamp="1635204157390">
       <screen x="0" y="25" width="1920" height="981" />
     </state>
-    <state width="1878" height="263" key="GridCell.Tab.0.left/0.25.1920.981@0.25.1920.981" timestamp="1635191918458" />
-    <state width="1878" height="263" key="GridCell.Tab.0.right" timestamp="1635191918459">
+    <state width="1878" height="263" key="GridCell.Tab.0.center/0.25.1920.981@0.25.1920.981" timestamp="1635204157390" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left" timestamp="1635204157390">
       <screen x="0" y="25" width="1920" height="981" />
     </state>
-    <state width="1878" height="263" key="GridCell.Tab.0.right/0.25.1920.981@0.25.1920.981" timestamp="1635191918459" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left/0.25.1920.981@0.25.1920.981" timestamp="1635204157390" />
+    <state width="1878" height="263" key="GridCell.Tab.0.right" timestamp="1635204157390">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.right/0.25.1920.981@0.25.1920.981" timestamp="1635204157390" />
+    <state x="469" y="151" key="SettingsEditor" timestamp="1635202490623">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state x="469" y="151" key="SettingsEditor/0.25.1920.981@0.25.1920.981" timestamp="1635202490623" />
     <state x="616" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1635191223035">
       <screen x="0" y="25" width="1920" height="981" />
     </state>
     <state x="616" y="346" key="com.intellij.ide.util.TipDialog/0.25.1920.981@0.25.1920.981" timestamp="1635191223035" />
-    <state x="739" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1635191457242">
+    <state x="739" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1635203995793">
       <screen x="0" y="25" width="1920" height="981" />
     </state>
-    <state x="739" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.25.1920.981@0.25.1920.981" timestamp="1635191457242" />
+    <state x="739" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.25.1920.981@0.25.1920.981" timestamp="1635203995793" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/array/TwoSum.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

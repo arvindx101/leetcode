@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="easy.array.TwoSumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-25T19:58:39" hostname="a483e731e2db.ant.amazon.com" time="0.025">
-  <properties/>
-  <testcase name="twoSumTest()" classname="easy.array.TwoSumTest" time="0.025"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
