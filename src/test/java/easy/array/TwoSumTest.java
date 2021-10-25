@@ -11,8 +11,10 @@ class TwoSumTest {
     public void twoSumTest()
     {
         TwoSum twoSum = new TwoSum();
-        int[] arr = new int[]{2,3,4,5,6,7,10};
+        int[] arr = new int[]{2,3,4,5,6,-8,10};
+        int[] ret = new int[]{1,6};
 
-        Assertions.assertTrue(twoSum.twoSum(arr, 13));
+        Assertions.assertArrayEquals(ret, twoSum.twoSum(arr, 13));
+
     }
 }
