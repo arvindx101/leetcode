@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49f8e727-a9d2-491e-a4e5-8f09e7ff8c5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="leetcode" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="leetcode" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="leetcode" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="200pAbP8fTQO6xzMsvienFjP0Bm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="easy.array" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.TwoSumTest.twoSumTest">
+    <configuration name="TwoSumTest.twoSumTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;easy.array.TwoSumTest.twoSumTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TwoSumTest.twoSumTest" />
+        <item itemvalue="Gradle.leetcode [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f8e727-a9d2-491e-a4e5-8f09e7ff8c5f" name="Default Changelist" comment="" />
+      <created>1635191216542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635191216542</updated>
+      <workItem from="1635191220639" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="179" key="#Project_Structure" timestamp="1635191391700">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state x="560" y="179" key="#Project_Structure/0.25.1920.981@0.25.1920.981" timestamp="1635191391700" />
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom" timestamp="1635191918459">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.bottom/0.25.1920.981@0.25.1920.981" timestamp="1635191918459" />
+    <state width="1878" height="263" key="GridCell.Tab.0.center" timestamp="1635191918459">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.center/0.25.1920.981@0.25.1920.981" timestamp="1635191918459" />
+    <state width="1878" height="263" key="GridCell.Tab.0.left" timestamp="1635191918458">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.left/0.25.1920.981@0.25.1920.981" timestamp="1635191918458" />
+    <state width="1878" height="263" key="GridCell.Tab.0.right" timestamp="1635191918459">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.0.right/0.25.1920.981@0.25.1920.981" timestamp="1635191918459" />
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1635191223035">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog/0.25.1920.981@0.25.1920.981" timestamp="1635191223035" />
+    <state x="739" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1635191457242">
+      <screen x="0" y="25" width="1920" height="981" />
+    </state>
+    <state x="739" y="249" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.25.1920.981@0.25.1920.981" timestamp="1635191457242" />
+  </component>
+</project>
