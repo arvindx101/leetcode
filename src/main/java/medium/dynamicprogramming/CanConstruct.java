@@ -21,8 +21,7 @@ public class CanConstruct {
         for(String word:wordbank) {
             if(target.indexOf(word) == 0) {
                 //word is at prefix of target
-                String suffix = target.substring(word.length());
-                retVal = canConstruct(suffix, wordbank, memo);
+                retVal = canConstruct(target.substring(word.length()), wordbank, memo);
                 if (retVal == true)
                     break;
             }
