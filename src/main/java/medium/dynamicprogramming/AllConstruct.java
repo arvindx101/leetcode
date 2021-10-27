@@ -17,13 +17,12 @@ public class AllConstruct {
 
         if(memo.containsKey(target)) return memo.get(target);
 
-        if(target.equals("")) {
-            List<List<String>> lls = new ArrayList<List<String>>();
-            lls.add(new ArrayList<>());
-            return lls;
-        }
-
         List<List<String>> retVal = new ArrayList<List<String>>();
+
+        if(target.equals("")) {
+            retVal.add(new ArrayList<>());
+            return retVal;
+        }
 
         for(String word: wordbank) {
             if(target.indexOf(word) == 0) {
