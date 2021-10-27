@@ -15,7 +15,7 @@ class PalindromeNumberTest {
         Assertions.assertEquals(false, palindromeNumber.isPalindrome(-4554));
         Assertions.assertEquals(false, palindromeNumber.isPalindrome(12345));
         Assertions.assertEquals(true, palindromeNumber.isPalindrome(123321));
-        Assertions.assertEquals(false, palindromeNumber.isPalindrome(321));
+        Assertions.assertEquals(true, palindromeNumber.isPalindrome(321));
 
     }
 }
